@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@ Aretas Paulauskas</copyright>
+    <lastBuildDate>Thu, 25 Jun 2020 23:10:30 +0300</lastBuildDate>
     
 	<atom:link href="https://aretas77.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://aretas77.github.io/posts/helloworld/</link>
+      <pubDate>Thu, 25 Jun 2020 23:10:30 +0300</pubDate>
+      
+      <guid>https://aretas77.github.io/posts/helloworld/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>About</title>
@@ -17,7 +27,8 @@
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://aretas77.github.io/about/</guid>
-      <description>Hi there My name is Aretas and I am a Software Engineer just recently embarked on a journey to becoming the Perfect Embedded Linux Software Engineer.</description>
+      <description>Hi there My name is Aretas and I am a Junior Software Engineer living in Kaunas, Lithuania. I recently finished by BSc in Software Engineering in Kaunas Technology University. And I have embarked to a journey on becoming the Perfect Embedded Linux Software Engineer.
+Why a blog? I have discovered that I do enjoy writing things as well as reading a diverse amount of stories written by people and their blogs.</description>
     </item>
     
   </channel>

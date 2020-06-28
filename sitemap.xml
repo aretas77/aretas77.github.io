@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aretas77.github.io/about/</loc>
-    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+    <loc>https://aretas77.github.io/</loc>
+    <lastmod>2020-06-25T23:10:30+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aretas77.github.io/</loc>
+    <loc>https://aretas77.github.io/posts/helloworld/</loc>
+    <lastmod>2020-06-25T23:10:30+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aretas77.github.io/posts/</loc>
+    <lastmod>2020-06-25T23:10:30+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aretas77.github.io/about/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
